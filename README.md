@@ -1,2 +1,1 @@
-# SQL_Data_Warehouse_Project
-Data Warehouse Using MySQL Server involving ETL processes and advanced analytics
+ Welcome to the **Data Warehouse And Analytics** Project Repository ##🚀 
