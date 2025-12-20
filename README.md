@@ -25,4 +25,16 @@ Develop SQL based analytics to deliver detailed insights into :
 - **Product Performance**
 - **Sales Trend**
 
-These insights empower stakeholders with business metrics, enabling strategic decision making. 
+These insights empower stakeholders with business metrics, enabling strategic decision making.  
+
+---     
+
+## 🪪 License 
+
+This project is licensed under the [MIT License](LICENSE]. You are free to use, modify and share this project with proper attribution. 
+
+## 🙋🏽‍♀️ About Me 
+
+Hi There, I am Faiza Kashish, a recent graduate from **IIT Kharagpur**, I am interested in product analytics, data analytics and all things AI.
+
+
