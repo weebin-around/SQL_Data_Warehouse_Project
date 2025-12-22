@@ -7,6 +7,9 @@
 
  ## Objectives 
 
+ <img width="1140" height="631" alt="image" src="https://github.com/user-attachments/assets/5956af24-d2fb-4cdf-9ccb-238d136c404b" />
+
+
  ### Specifications: 
  - **Data Sources** : Import Data from two source systems provided as csv files
  - **Data Quality** : Cleanse and resolve data quality issues prior to analysis
