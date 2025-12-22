@@ -17,6 +17,9 @@
  - This is the broad architecture of the silver layer in the data pipeline which will be used in constructing the silver layer and act as a reference for building the gold layer in the pipeline
  - Gold Layer Data Model
 
+   <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/95bc2367-4c36-46aa-92c6-a91f234d5fc4" />
+
+
 
  ### Specifications: 
  - **Data Sources** : Import Data from two source systems provided as csv files
