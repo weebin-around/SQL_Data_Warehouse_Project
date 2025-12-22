@@ -6,8 +6,8 @@
  # Project Requirements 🚀
 
  ## Objectives 
- - This project is a deep dive dive into data architecture and pipeliing using the medallion architecture method
- -This is the broad architecture of the silver layer in the data pipeline which will be used in constructing the silver layer and act as a reference for building the gold layer in the pipeline
+ - This project is a deep dive dive into data architecture and pipeliing using the medallion architecture method.
+ - This is the broad architecture of the silver layer in the data pipeline which will be used in constructing the silver layer and act as a reference for building the gold layer in the pipeline
 
  <img width="1024" height="631" alt="image" src="https://github.com/user-attachments/assets/5956af24-d2fb-4cdf-9ccb-238d136c404b" />
 
