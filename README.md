@@ -13,6 +13,9 @@
     <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5956af24-d2fb-4cdf-9ccb-238d136c404b" />
 
 ---
+ ## Gold Layer
+ - This is the broad architecture of the silver layer in the data pipeline which will be used in constructing the silver layer and act as a reference for building the gold layer in the pipeline
+ - Gold Layer Data Model
 
 
  ### Specifications: 
