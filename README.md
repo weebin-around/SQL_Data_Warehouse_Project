@@ -1,6 +1,6 @@
  Welcome to the **Data Warehouse And Analytics** Project Repository 🚀 
 
- This project is a portfolio project in the field of **Data Engineering and Analytics **. It Involves data warehousing and advanced analytics solution from building a datahouse to generating advanced analytical insights from the same. 
+ This project is a portfolio project in the field of **Data Engineering and Analytics**. It Involves data warehousing and advanced analytics solution from building a datahouse to generating advanced analytical insights from the same. 
 
 ---
  # Project Requirements 🚀
